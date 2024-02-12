@@ -7,8 +7,7 @@
 ## 📫 Connect with Me
 
 - **Email:** nishchintsmakode@gmail.com
-- **LinkedIn:** [Nishchint Makode](LinkedIn_profile_link)
-- **Phone:** 07385631052
+- **LinkedIn:** [Nishchint Makode](https://www.linkedin.com/in/nishchintmakode/)
 
 <!-- Add any additional badges, shields, or graphics you find relevant -->
 
