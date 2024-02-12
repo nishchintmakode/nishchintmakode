@@ -1,6 +1,6 @@
 # Nishchint S. Makode
 
-![Profile Banner](link_to_banner_image) <!-- Add a banner image that represents you or your work -->
+![Profile Banner](/banner.png) <!-- Add a banner image that represents you or your work -->
 
 👋 Hi there! I'm Nishchint, a passionate computer science enthusiast currently pursuing a Master's in Advanced Computer Science at the University of Birmingham.
 
