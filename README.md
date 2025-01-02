@@ -1,7 +1,7 @@
 <pre>
 $ cat about.txt
 
-Hi there! I'm Nishchint 👋
+Hi there! I'm Nishchint. 👋
 
 - I'm a passionate computer science enthusiast, and mostly code in Python, and C++.
 - I'm interested in Artificial Intelligence, Machine Learning, and DevOps in general.
