@@ -12,7 +12,7 @@ Hi there! I'm Nishchint 👋
 Connect with Me
 
 - nishchintmakode@gmail.com
-- [@nishchintmakode](https://www.linkedin.com/in/nishchintmakode/)
+- @[nishchintmakode](https://www.linkedin.com/in/nishchintmakode/)
 
 <!-- I am an open source enthusiast and contribute in my free time. Following projects are my current focus:
 
