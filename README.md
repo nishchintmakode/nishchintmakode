@@ -4,7 +4,7 @@ $ cat about.txt
 Hi there! I'm Nishchint. 👋
 
 - I'm a passionate computer science enthusiast, and mostly code in Python, and C++.
-- I'm interested in Artificial Intelligence, Machine Learning, and DevOps in general.
+- I'm interested in Cloud-native development, DevOps, and Machine Learning in general.
 - I am building <a href="https://github.com/cope-ai/gofs">gofs</a> (Go file-search) which is a cli utility tool to search local files with minimum delay.
 - I'm also learning Go and Rust these days.
 <!-- - Here is my <a href="[https://nishchint.vercel.app/resume.pdf](https://nishchint.vercel.app/NISHCHINT_MAKODE_CV.pdf)">resume</a> -->
